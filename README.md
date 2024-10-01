@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Xinyang Li (李新阳), a second-year Ph.D. student at the MAC Lab of Xiamen University. My research interests include various visual perception, generation, and editing tasks for image, 3D, 4D, and video, with a particular focus on generative models based on neural rendering.
+
+Reach me at imlixinyang@gmail.com.
+
 <!--
 **imlixinyang/imlixinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
